@@ -1,10 +1,9 @@
+import React from 'react';
 import './App.css';
+import MyPage from './components/MyPage';
 
 function App() {
-  return (
-    <div className="App">
-    </div>
-  );
+  return <MyPage />;
 }
 
 export default App;
