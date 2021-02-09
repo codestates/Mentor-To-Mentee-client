@@ -63,6 +63,15 @@ Mentor To Mentee는 이름에서 느껴지듯이 멘토와 멘티를 이어주�
 - Position : 프론트엔드
 - Works :
 
+    **[공통 작업]**
+
+    1. 프로젝트 주제 관련 레퍼런스 조사
+    2. 사전 설계 작업
+        - wire-frame
+        - flow-chart
+        - DB Schema
+        - API 문서
+        
     **[클라이언트]**
 
     1. React, Styled Component 를 활용한 메인페이지, 멘토정보페이지, 질문답변페이지 개발
@@ -80,7 +89,16 @@ Mentor To Mentee는 이름에서 느껴지듯이 멘토와 멘티를 이어주�
 - Role : 팀원
 - Position : 프론트엔드
 - Works :
+    
+    **[공통 작업]**
 
+    1. 프로젝트 주제 관련 레퍼런스 조사
+    2. 사전 설계 작업
+        - wire-frame
+        - flow-chart
+        - DB Schema
+        - API 문서
+        
     **[클라이언트]**
 
     1. React, Styled-components를 활용한 마이페이지, 멘티 정보 페이지, 질문 및 답변 상세페이지 구현
@@ -94,7 +112,7 @@ Mentor To Mentee는 이름에서 느껴지듯이 멘토와 멘티를 이어주�
 - Position : 백엔드
 - Works :
 
-    **[Common]**
+    **[공통 작업]**
 
     1. 프로젝트 주제 관련 레퍼런스 조사
     2. 사전 설계 작업
@@ -103,16 +121,12 @@ Mentor To Mentee는 이름에서 느껴지듯이 멘토와 멘티를 이어주�
         - DB Schema
         - API 문서
 
-    **[Client]**
-
-    1. 
-
-    **[Server]**
+    **[서버]**
 
     1. MySQL과 Sequelizer를 사용한 DB 모델링
     2. 회원가입 / 로그인 / 로그아웃 구현
     3. Naver Oauth 구현
-    4. 유저정보 수정 API 구현
+    4. 비밀번호 수정 API 구현
     5. 질문 요청 및 조회 API 구현
     6. 멘토 정보 생성, 수정, 조회 API 구현
 
@@ -122,7 +136,7 @@ Mentor To Mentee는 이름에서 느껴지듯이 멘토와 멘티를 이어주�
 - Position : 백엔드
 - Works :
 
-    **[Common]**
+    **[공통작업]**
 
     1. 프로젝트 주제 관련 레퍼런스 조사
     2. 사전 설계 작업
@@ -131,7 +145,7 @@ Mentor To Mentee는 이름에서 느껴지듯이 멘토와 멘티를 이어주�
         - DB Schema
         - API 문서
 
-    **[Server]**
+    **[서버]**
 
     1. Sequelize 를 이용한 스키마 M:N 관계 셋업
     2. 메인페이지 멘토카드 API
