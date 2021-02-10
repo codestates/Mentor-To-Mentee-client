@@ -33,7 +33,7 @@ Mentor To Mentee는 이름에서 느껴지듯이 멘토와 멘티를 이어주�
                                                                               
 ### 🎈MentorToMentee는 이렇게 만들어졌습니다!
 
-![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F311d6fa7-9bc7-4ad8-9a77-650ed62baa24%2F_2021-02-09_16-26-20.png?table=block&id=a8b26730-b456-400b-be82-e500c42d5be3&spaceId=e14a5112-d083-4015-b0b5-1c50ea50f51f&width=3940&userId=505f5c27-9d71-4cf4-8174-1ef8968c448d&cache=v2)
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc7b5a833-2be2-465e-b0df-8561016d0101%2FUntitled.png?table=block&id=fd81db38-305b-4c97-b032-46c68f450c62&width=3580&userId=c83eba92-4410-44db-b4ab-38fd609f66a3&cache=v2)
 
 ## Wiki
 
