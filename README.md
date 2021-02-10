@@ -30,6 +30,7 @@ Mentor To Mentee는 이름에서 느껴지듯이 멘토와 멘티를 이어주�
 해당 분야에서 올바른 방향으로 성장하는 그 날까지<br>
 저희 Mentor To Mentee가 그 옆을 지키도록 하겠습니다. 🤗 <br>
 
+<br>
                                                                               
 ### 🎈MentorToMentee는 이렇게 만들어졌습니다!
 
